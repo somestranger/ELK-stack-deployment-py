@@ -113,6 +113,7 @@ Freeze the script to bypass prereq's listed above.
 --Redesign the script to improve performance and proficency using threading.--
 Redesign to use ansible. This should fix the latency problem with out building my own solution.
 Design ability to pivot from Kibana interface to PCAP.
+Utilization of the new Elastic stack to include introduction of the X-pack plugins.
 
 
 
